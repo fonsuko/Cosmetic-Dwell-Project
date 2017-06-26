@@ -1,0 +1,25 @@
+
+div#footer1 {
+	font-family:prototype;
+	padding:0.025px;
+	background: #212121;
+	font-weight:700px;
+	color: #FFFFFF;
+	width: 1024px;
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 0.5px;
+}
+
+div#footer2 {
+	font-family:prototype;
+	padding:5px;
+	background: #FFFFFF;
+	font-weight:700px;
+	color: #212121;
+	width: 1024px;
+	margin: auto;
+	margin-top: 5px;
+	margin-bottom: 100px;
+}
+
